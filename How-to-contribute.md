@@ -1,9 +1,9 @@
 ## How to Contribute to this awesome list
 
-The text in [README.md](https://github.com/jlandmann/cryosphere-links/blob/master/README.md) is written im [Markdown](https://www.markdownguide.org/cheat-sheet), which uses plain text
+The text in [README.md](https://github.com/JiaWei-Weng/rockmass_discontinutiy_links/blob/main/README.md) is written im [Markdown](https://www.markdownguide.org/cheat-sheet), which uses plain text
 to produce a nice looking format. The most direct way to contribute is to make a Pull Request to this repository. To do this, 
 
-1. Open the [README.md](https://github.com/jlandmann/cryosphere-links/blob/master/README.md) file in a new tab.
+1. Open the [README.md](https://github.com/JiaWei-Weng/rockmass_discontinutiy_links/blob/main/README.md) file in a new tab.
 2. In this tab, click on the pen on the top right of the file content ("edit this file")
 3. Edit whatever you want to edit. In the best case, your addition should include name of the model/dataset/tool, one sentence description, and potentially URL and/or related publication.
 4. Check out what you have changed using the "Preview" tab
