@@ -5,6 +5,6 @@ This is a link list with awesome data, models, and tools around the rockmass dis
 - Open-source rockmass outcrop data
   - A
 - discontinuity extraction algorithms
-  - B
+  - DSE(https://github.com/adririquelme/DSE)
 - discontinuity extraction softwares
-  - C
+  - 
