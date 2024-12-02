@@ -1,5 +1,4 @@
-# rockmass_discontinutiy_links![Awesome](https://raw.githubusercontent.com/sindresorhus/awesome/main/media/logo.svg)
-<img src="https://raw.githubusercontent.com/sindresorhus/awesome/main/media/logo.svg" alt="Awesome" width="150" style="vertical-align: middle;"/>
+# rockmass_discontinutiy_links! <img src="https://raw.githubusercontent.com/sindresorhus/awesome/main/media/logo.svg" alt="Awesome" width="150" style="vertical-align: middle;"/>
 
 This is a link list with awesome data, models, and tools around the rockmass discontinutiy.
 
